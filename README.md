@@ -1,5 +1,4 @@
-# Team EyeNetics
-
+![PrediFy](https://user-images.githubusercontent.com/97115854/223779164-c685e5a1-cdf5-4f14-8669-082b8aed5275.png)
 - [Project summary](#project-summary)
   - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
   - [How our technology solution can help](#how-our-technology-solution-can-help)
