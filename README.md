@@ -1,7 +1,6 @@
 ![PrediFy](https://user-images.githubusercontent.com/97115854/223779164-c685e5a1-cdf5-4f14-8669-082b8aed5275.png)
 - [Project summary](#project-summary)
-  - [The issue we are hoping to solve](#the-issue-we-are-hoping-to-solve)
-  - [How our technology solution can help](#how-our-technology-solution-can-help)
+  - [Problem we are trying to solve](#problem-we-are-trying-to-solve)
   - [Our idea](#our-idea)
 - [Technology implementation](#technology-implementation)
   - [IBM AI service(s) used](#ibm-ai-services-used)
@@ -15,17 +14,28 @@
 
 ## Project summary
 
-### The issue we are hoping to solve
+### Problem we are trying to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+More than a quarter of the world’s population — 2.2 billion people —  experience the ill effects of vision disability out of which, 1 billion cases could have been prevented or have been left unaddressed, as indicated by the first World Vision Report published by the World Health Organization (WHO) on October 8, 2019. 
 
-### How our technology solution can help
+These 1 billion people include those with moderate or extreme distance vision impairment or blindness due to unaddressed refractive error (123.7 million), unaddressed presbyopia (826 million), cataract (65.2 million), glaucoma (6.9 million), corneal opacities (4.2 million), diabetic retinopathy (3 million), and trachoma (2 million).
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+India is known as the Blind Capital of the world. At 8 million, India has the world’s largest blind population. Nearly half of it was preventable. In India, 41% of children (under 18 years) are estimated to  need visual correction but are not corrected. About 42% of workers , 42% of drivers and 45% of elderly people are similarly placed in remote areas where they don’t have access to right specialists and tools.
+
+![image](https://user-images.githubusercontent.com/97115854/223784905-5e38cca1-7c31-4560-97d2-d782a076d83a.png)
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
+EyeNetics is an AI enabled app that can predict Diabetic Retinopathy and Glaucoma at a early stage by giving just the retinal scan of the patient. 
+
+The working of this app is fairly simple: all you need to do is enter some information of the patient and the retinal scan and then the app would determine whether the patient is having Diabetic Retinopathy or Glaucoma or not using the ML Model linked to it. The app doesn’t need the retinal scan to be from any high end slit lamp with a imaging system. It can work with the retinal scan from any low cost slit lamp as it uses a ML Model and Artificial Neural Network to recognize patterns on the basis of which it predicts.
+
+The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
+
+The app doesn’t need the retinal scan to be from any high end slit lamp with a imaging system. It can work with the retinal scan from any low cost slit lamp as it uses a ML Model and Artificial Neural Network to recognize patterns on the basis of which it predicts.
+
+The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
+
 
 More detail is available in our [description document](./docs/DESCRIPTION.md).
 
