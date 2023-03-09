@@ -22,21 +22,15 @@ These 1 billion people include those with moderate or extreme distance vision im
 
 India is known as the Blind Capital of the world. At 8 million, India has the world’s largest blind population. Nearly half of it was preventable. In India, 41% of children (under 18 years) are estimated to  need visual correction but are not corrected. About 42% of workers , 42% of drivers and 45% of elderly people are similarly placed in remote areas where they don’t have access to right specialists and tools.
 
-![image](https://user-images.githubusercontent.com/97115854/223784905-5e38cca1-7c31-4560-97d2-d782a076d83a.png)
+![image](https://user-images.githubusercontent.com/97115854/223938851-57130b3f-2918-467e-9a5e-dbaced3a44bd.png)
 
 ### Our idea
 
-EyeNetics is an AI enabled app that can predict Diabetic Retinopathy and Glaucoma at a early stage by giving just the retinal scan of the patient. 
+EyeNetics is an AI enabled app that can predict Diabetic Retinopathy and Glaucoma at a early stage by using just the retinal scan of the patient. 
 
 The working of this app is fairly simple: all you need to do is enter some information of the patient and the retinal scan and then the app would determine whether the patient is having Diabetic Retinopathy or Glaucoma or not using the ML Model linked to it. The app doesn’t need the retinal scan to be from any high end slit lamp with a imaging system. It can work with the retinal scan from any low cost slit lamp as it uses a ML Model and Artificial Neural Network to recognize patterns on the basis of which it predicts.
 
 The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
-
-The app doesn’t need the retinal scan to be from any high end slit lamp with a imaging system. It can work with the retinal scan from any low cost slit lamp as it uses a ML Model and Artificial Neural Network to recognize patterns on the basis of which it predicts.
-
-The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
-
-
 More detail is available in our [description document](./docs/DESCRIPTION.md).
 
 ## Technology implementation
