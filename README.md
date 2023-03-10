@@ -32,7 +32,8 @@ The working of this app is fairly simple: all you need to do is enter some infor
 
 The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
 
-With this app we plan to impact nearly 1 billion people including ophthalmologists and want to revolutionize vision correction with AI. Our target population are mainly Ophthalmologists practicing in remote areas with less access to high-end slit lamp with imaging system. We want to empower these Ophthalmologists with AI and want to uplift their level of service by simultaneously decreasing their cost as they no longer need to buy expensive slit lamp which would eventually decrease their fees to the patient making vision correction affordable and accessible for all. 
+With this app we plan to impact nearly 1 billion people including ophthalmologists in remote areas. Our target audience is primarily made up of ophthalmologists who are searching for less expensive alternatives to high-end slit lamps since they lack access to them. By simultaneously lowering their costs and expenses because they no longer need to purchase a costly slit lamp, we intend to raise the level of service provided by these rural ophthalmologists. Our mission is to revolutionize vision correction and make vision correction affordable for all with the help of AI. 
+
 
 ## Technology implementation
 
