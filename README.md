@@ -29,9 +29,8 @@ India is known as the Blind Capital of the world. At 8 million, India has the wo
 EyeNetics is an AI enabled app that can predict Diabetic Retinopathy and Glaucoma at a early stage by using just the retinal scan of the patient. 
 
 The working of this app is fairly simple: all you need to do is enter some information of the patient and the retinal scan and then the app would determine whether the patient is having Diabetic Retinopathy or Glaucoma or not using the ML Model linked to it. The app doesn’t need the retinal scan to be from any high end slit lamp with a imaging system. It can work with the retinal scan from any low cost slit lamp as it uses a ML Model and Artificial Neural Network to recognize patterns on the basis of which it predicts.
-
 The app uses a database of over 32000 retinal scan to recognize patterns of visual impairment diseases and the accuracy of the prediction of this app is way more than the accuracy of prediction by an ophthalmologist making our app very reliable.
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+With this app we plan to impact nearly 1 billion people including ophthalmologists and want to revolutionize vision correction with AI. Our target population are mainly Ophthalmologists practicing in remote areas with less access to high-end imaging system. We want to empower these Ophthalmologists with AI and want to uplift their level of service by simultaneously decreasing their cost as they no longer need to buy expensive slit lamp which would eventually decrease their fees to the patient making vision correction affordable and accessible for all. 
 
 ## Technology implementation
 
